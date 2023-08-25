@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Upskilling Myself
+- 🔭 I’m currently working as intern ...Codsoft
 - 🌱 I’m currently learning ...FullStack Development
 - 👯 I’m looking to collaborate on ...Projects
 - 🤔 I’m looking for help with ...Job
