@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m a..FullStack Developer
+- 🌱 I’m a...FullStack Web Developer
 - 👯 I’m looking to collaborate on ...Projects
 - 🤔 I’m looking for help with ...Job
   
