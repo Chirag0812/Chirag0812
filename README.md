@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m a...FullStack Web Developer
-- 👯 I’m looking to collaborate on ...Projects
+- 👯 I’m constantly working and collaborating on ...Projects
 - 🤔 I’m looking for help with ...Job
   
 <!--
